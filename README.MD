@@ -1,6 +1,6 @@
 # **Branch Contents:**
 
-##### [1] FlaskWebServiceDocker : Calculator Web Service in Flask and Docker.
+##### [1] FlaskDocker : Calculator Web Service in Flask and Docker.
 
 <hr>
 
