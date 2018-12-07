@@ -1,6 +1,6 @@
 # **Branch Contents:**
 
-##### [1] [FlaskWebServiceDocker : Calculator Web Service implementation in Flask and Docker.](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker)
+##### [1] [FlaskWebServiceDocker](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker) : Calculator Web Service implementation in Flask and Docker.
 
 <hr>
 
