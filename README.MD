@@ -1,4 +1,4 @@
-## To Dockerize FlaskWebService Project. Follow the below steps:
+## To Dockerize Flask WebService Project. Follow the below steps:
 
 ##### [1] Download the FlaskWebServiceDocker project.
 ##### [2] Navigate inside the FlaskWebServiceDocker project folder from Docker QuickStart Terminal.
