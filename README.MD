@@ -36,6 +36,6 @@ This repository contains methods to Dockerize Python Projects.
    ###### This example illustrates how Jupyter Notebooks can be shared on MyBinder which Dockerizes the Notebook under the hood. [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/JupyterBinder)
    * Open https://mybinder.org/
    * Fill the required fields: </br>
-   * ![image](https://user-images.githubusercontent.com/689226/50533777-581f0900-0b57-11e9-9eb0-bc8b217ed3cc.png)
-   * Click Launch
-   * ![image](https://user-images.githubusercontent.com/689226/50533795-e4313080-0b57-11e9-93a4-583ed0bc576d.png)
+   ![image](https://user-images.githubusercontent.com/689226/50533777-581f0900-0b57-11e9-9eb0-bc8b217ed3cc.png)
+   * Click Launch  </br>
+   ![image](https://user-images.githubusercontent.com/689226/50533795-e4313080-0b57-11e9-93a4-583ed0bc576d.png)
