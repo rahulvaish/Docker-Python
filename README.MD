@@ -27,6 +27,9 @@ This repository contains methods to Dockerize Python Projects.
      ![image](https://user-images.githubusercontent.com/689226/49724797-2d484000-fc90-11e8-94f7-052f4b1a5710.png)
      ![image](https://user-images.githubusercontent.com/689226/49724798-2f120380-fc90-11e8-89b5-f6925cb6e74d.png)
      ![image](https://user-images.githubusercontent.com/689226/53516344-175d5500-3af2-11e9-9f23-feddbd3135c8.png)
+     Before executing the below commands, I preffered to clean the docker history. Followed the below commands:
+      - docker rm -vf $(docker ps -a -q)
+      - docker rmi -f $(docker images -a -q) 
      ![image](https://user-images.githubusercontent.com/689226/53516510-80dd6380-3af2-11e9-8f07-09f3bf07bc82.png)
    * Check Docker Hub: [[Docker Hub URL]](https://hub.docker.com/r/rahulvaish/flaskwebservicedocker/)
      ![image](https://user-images.githubusercontent.com/689226/49725174-181fe100-fc91-11e8-8900-84403a4a4b9b.png)
