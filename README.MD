@@ -38,7 +38,7 @@ This repository contains methods to Dockerize Python Projects.
    * Check Docker Hub: [[Docker Hub URL]](https://hub.docker.com/r/rahulvaish/flaskwebservicedocker/)
      ![image](https://user-images.githubusercontent.com/689226/49725174-181fe100-fc91-11e8-8900-84403a4a4b9b.png)
 
-   **NOTE: The above service is not meant to executed on Cloud Environment.** To design the project we need various other components like **gunicorn** which gets dockerize along with the service enabling it to get executed on any Cloud Environment. Follow the below steps:
+   **NOTE: The above service is not meant to be executed on Cloud Environment.** To design the project we need various other components like **gunicorn** which gets dockerize along with the service enabling it to get executed on any Cloud Environment. Follow the below steps:
    
    * Code the Web Service Project  [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceCloud)
    * Dockerize the Project:</br>
