@@ -38,6 +38,19 @@ This repository contains methods to Dockerize Python Projects.
    * Check Docker Hub: [[Docker Hub URL]](https://hub.docker.com/r/rahulvaish/flaskwebservicedocker/)
      ![image](https://user-images.githubusercontent.com/689226/49725174-181fe100-fc91-11e8-8900-84403a4a4b9b.png)
 
+   **NOTE: The above service is not meant to executed on Cloud Environment.** To design the project we need various other components like **gunicorn** which gets dockerize along with the service enabling it to get executed on any Cloud Environment. Follow the below steps:
+   
+   * Code the Web Service Project  [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceCloud)
+   * Dockerize the Project:</br>
+  ![image](https://user-images.githubusercontent.com/689226/54067237-ca048480-4263-11e9-9770-11b9582c7458.png)
+  ![image](https://user-images.githubusercontent.com/689226/54067246-ebfe0700-4263-11e9-9226-431f80843b4e.png)
+  ![image](https://user-images.githubusercontent.com/689226/54067336-c6253200-4264-11e9-80fb-106f3f119bac.png)
+  ![image](https://user-images.githubusercontent.com/689226/54067358-0a183700-4265-11e9-9bdb-590e52ab444c.png)
+   * On Azure, Create Resource -> Web -> Web App for Containers <br>
+  ![image](https://user-images.githubusercontent.com/689226/54067506-da6a2e80-4266-11e9-9679-d27b8b6a0578.png)
+  ![image](https://user-images.githubusercontent.com/689226/54067472-6d569900-4266-11e9-8704-62530b0890e0.png)
+
+
 <hr>
 
 - ###### [Jupyter Notebook on MyBinder](https://github.com/rahulvaish/Docker-Python/tree/JupyterBinder) 
