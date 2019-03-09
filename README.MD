@@ -19,12 +19,3 @@
 <hr>
 
 
-##### [Complete Document](https://github.com/rahulvaish/ReferenceDocuments/blob/master/UnderstandingDocker/StepsToDockerizeFlaskWebServiceProject.docx)
-
-<hr>
-
-##### Reference Repository:
-##### [FlaskWebService-Python](https://github.com/rahulvaish/FlaskWebServices-Python)
-
-
-
