@@ -34,9 +34,14 @@ This repository contains methods to Dockerize Python Projects.
       - docker rmi -f $(docker images -a -q) </br>
       
      ![image](https://user-images.githubusercontent.com/689226/53516344-175d5500-3af2-11e9-9f23-feddbd3135c8.png)
-     Here we have used -p which specifies the port it is going to run on. In out Calculator.py file we used app.run(debug=True, host=’0.0.0.0') so we needed to specify which port when using flask run , which above you can see I used 5000. </br>
-     
+     Here we have used -p which specifies the port it is going to run on. In our Calculator.py file we used app.run(debug=True, host=’0.0.0.0') so we needed to specify which port when using flask run , which above you can see I used 5000. </br>
      ![image](https://user-images.githubusercontent.com/689226/53516510-80dd6380-3af2-11e9-8f07-09f3bf07bc82.png)
+     
+     
+     **NOTE:** Refer [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Calculator) to compute Request/Response like below:
+     ![image](https://user-images.githubusercontent.com/45539698/62387379-11274500-b578-11e9-92c5-4d93f85852b2.png)
+
+     
    * Check Docker Hub: [[Docker Hub URL]](https://hub.docker.com/r/rahulvaish/flaskwebservicedocker/)
      ![image](https://user-images.githubusercontent.com/689226/49725174-181fe100-fc91-11e8-8900-84403a4a4b9b.png)
 
