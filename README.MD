@@ -40,7 +40,7 @@ This repository contains methods to Dockerize Python Projects.
     
      <hr>
     
-     **FYI:** Refer [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker/FlaskWebServiceDocker-AppRoute) to compute Request/Response like below:
+     **FYI:** Refer [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDockerAppRoute/FlaskWebServiceDocker-AppRoute) to compute Request/Response like below:
      ![image](https://user-images.githubusercontent.com/689226/62390543-30c26b80-b580-11e9-9b24-91f3016b929d.png)
 
      <hr>
