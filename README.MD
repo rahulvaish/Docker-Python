@@ -25,7 +25,7 @@ This repository contains methods to Dockerize Python Projects.
    ###### This example illustrates how to Dockerize a Flask WebService Project. [[Source Code]](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker)
    * Download the FlaskWebServiceDocker project.
    * Navigate inside the FlaskWebServiceDocker project folder from Docker QuickStart Terminal.
-   * Execute the below commands-
+   * Execute the below commands- </br>
      ![image](https://user-images.githubusercontent.com/689226/49724797-2d484000-fc90-11e8-94f7-052f4b1a5710.png)
      ![image](https://user-images.githubusercontent.com/689226/49724798-2f120380-fc90-11e8-89b5-f6925cb6e74d.png)
      </br>
